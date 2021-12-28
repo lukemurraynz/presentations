@@ -11,7 +11,7 @@ Dates used in this repo's directory structure are localised to the time zone of 
 
 | Date | Title | Version | Event | Video |
 |------|-------|---------|-------|-------|
-| 2021-04-28 | Azure Fundementals| v1.0 | N/A - Internal Presentation | N/A [Azure Fundementals PowerPoint](https://github.com/lukemurraynz/presentations/blob/main/2021/Azure%20Fundamentals_Q2_2021.pptx) |
+| 2021-04-28 | Azure Fundementals| v1.0 | Internal Presentation to: IT Parters Engineering Team | N/A [Azure Fundementals PowerPoint](https://github.com/lukemurraynz/presentations/blob/main/2021/Azure%20Fundamentals_Q2_2021.pptx) |
 
 ## Credits
 
