@@ -2,25 +2,46 @@
 
 This repository contains a collection of presentations that have been shared at various events, conferences, and workshops. Feel free to use these presentations with proper attribution.
 
-## Available Categories
+## Available Presentations
 
-- [Azure](/Azure/) - Comprehensive presentations about Microsoft Azure cloud services, architecture patterns, development tools, and best practices
-- [Career](/Career/) - Presentations focused on professional development, certification paths, and career growth in technology
-- [Cloud](/Cloud/) - General cloud computing concepts, multi-cloud strategies, and cloud adoption frameworks
-- [Other](/Other/) - Miscellaneous technical presentations on various IT topics
+All presentations are organized in individual folders at the root level. Each folder contains presentation slides (PDF/PPTX) and demo code/scripts when applicable.
 
-## Repository Structure
+### Azure & Cloud Computing
+- [AI Skills Challenge - Applied Skills - Deploy cloud-native apps using Azure Container Apps](./AI%20Skills%20Challenge%20-%20Applied%20Skills%20-%20Deploy%20cloud-native%20apps%20using%20Azure%20Container%20Apps/)
+- [ALZ-Accelerator](./ALZ-Accelerator/)
+- [API-Management](./API-Management/)
+- [Azure-Cloud-Patterns](./Azure-Cloud-Patterns/)
+- [Azure-Copilot-Q4-2023](./Azure-Copilot-Q4-2023/)
+- [Azure-Developer-CLI](./Azure-Developer-CLI/)
+- [Azure-Extended-Zones](./Azure-Extended-Zones/)
+- [Azure-Functions-PowerShell](./Azure-Functions-PowerShell/)
+- [Azure-Landing-Zones-Sandbox-Environment-Design](./Azure-Landing-Zones-Sandbox-Environment-Design/)
+- [Azure-NZ-North](./Azure-NZ-North/)
+- [Azure-Resiliency-Workshop](./Azure-Resiliency-Workshop/)
+- [Azure-ServiceGroups](./Azure-ServiceGroups/)
+- [Azure-Spring-Clean-2024-Network-Monitoring](./Azure-Spring-Clean-2024-Network-Monitoring/)
+- [Coding on the Cloud - Getting Started with GitHub Codespaces](./Coding%20on%20the%20Cloud%20-%20Getting%20Started%20with%20GitHub%20Codespaces/)
+- [Container-Apps-Workshop](./Container-Apps-Workshop/)
+- [Container-Secure-Supply-Chain](./Container-Secure-Supply-Chain/)
+- [Defender-for-Cloud](./Defender-for-Cloud/)
+- [Getting-Started-with-Azure-AI-Studio](./Getting-Started-with-Azure-AI-Studio/)
+- [Microsoft-Azure-Cost-Optimization](./Microsoft-Azure-Cost-Optimization/)
+- [Microsoft-Azure-Developer-Tools-Open-AI-and-Github-Copilot](./Microsoft-Azure-Developer-Tools-Open-AI-and-Github-Copilot/)
+- [Microsoft-Azure-Resource-Migration-between-Regions](./Microsoft-Azure-Resource-Migration-between-Regions/)
+- [PowerShell-Azure-Demo](./PowerShell-Azure-Demo/)
+- [Run open-sourced inference models in AKS using Kaito](./Run%20open-sourced%20inference%20models%20in%20AKS%20using%20Kaito/)
+- [WeDoAI-Getting-Started-with-Azure-AI-Studio](./WeDoAI-Getting-Started-with-Azure-AI-Studio/)
 
-Each category contains multiple presentation folders with standardized naming conventions:
-- Hyphens separate words (e.g., `Azure-Cloud-Patterns`)
-- Specific versions or dates may be included at the end (e.g., `Azure-Copilot-Q4-2023`)
-- Each presentation folder includes a README.md with presentation details
+### Enterprise & Development
+- [Enterprise-Policy-As-Code](./Enterprise-Policy-As-Code/)
+- [Product-Development-Lifecycle](./Product-Development-Lifecycle/)
+- [Workload-Criticality](./Workload-Criticality/)
 
-## Presentation Contents
+### Career & Professional Development
+- [Aotearoa-User-Group-November-2024-Microsoft-Credentials](./Aotearoa-User-Group-November-2024-Microsoft-Credentials/)
 
-Most presentation folders contain:
-- Presentation slides (PDF/PPTX)
-- Demo code and scripts (when applicable)
+### Events & Community
+- [Hacksmash-The-art-of-the-Hackathon](./Hacksmash-The-art-of-the-Hackathon/)
 
 ## Usage Guidelines
 
@@ -33,8 +54,8 @@ When using these presentations:
 
 If you'd like to contribute your own presentations:
 1. Fork this repository
-2. Add your presentation in the appropriate category folder following naming conventions
-3. Include a README.md with presentation details (title, description, target audience)
+2. Create a new folder at the root level with a descriptive name
+3. Add your presentation files (slides, demo code, etc.)
 4. Ensure all demo code is well-documented
 5. Submit a pull request
 
